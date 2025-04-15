@@ -1,1 +1,1 @@
-# Grade-Calculation-in-Java
+# Score-Calculation-in-Java
